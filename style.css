@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.konum{
+    width: 250px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 2em;
+    background:#0066cc;
+    color:#FFFFFF;
+    padding:5px;
+    margin:5px;
+}
